@@ -123,8 +123,22 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Database Intern",
+    img: "https://static.wixstatic.com/media/48c6f1_9d1c4805624343029b8c05fe47e68aa8~mv2.png/v1/fill/w_244,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/A-ONE.png",
+    role: "Web Development and System Maintenance",
+    company: "One Home Mortgage and Investment Inc.",
+    date: "Jun 2023 - Oct 2023",
+    desc: "Interned at the Records Center in Fulton County, and worked on a project using microsoft access to create a database for government records that could be located with barcode integration.  ",
+    skills: [
+      "Javascript",
+      "Swift",
+      "System Maintenance",
+    ],
+    
+  },
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaQCWkQrFpIG2lcuYmhAM2WVjal0IoGbkxWlr2k09WX9u_I-K5h6Ha0Ime0UQg_VviSs&usqp=CAU",
+    role: "Database Internship",
     company: "Fulton County",
     date: "Jan 2023 - May 2023",
     desc: "Interned at the Records Center in Fulton County, and worked on a project using microsoft access to create a database for government records that could be located with barcode integration.  ",
@@ -137,7 +151,7 @@ export const experiences = [
     
   },
   {
-    id: 0,
+    id: 2,
     img: "https://rm-core-production.s3.amazonaws.com/logos/3276/large_kroger.jpg",
     role: "Customer Service",
     company: "Kroger",
