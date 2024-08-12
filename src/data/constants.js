@@ -125,9 +125,9 @@ export const experiences = [
     id: 0,
     img: "https://static.wixstatic.com/media/48c6f1_9d1c4805624343029b8c05fe47e68aa8~mv2.png/v1/fill/w_244,h_230,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/A-ONE.png",
     role: "Web Development and System Maintenance",
-    company: "One Home Mortgage and Investment Inc.",
+    company: "A-One Home Mortgage and Investment Inc.",
     date: "Jun 2023 - Oct 2023",
-    desc: "Interned at the Records Center in Fulton County, and worked on a project using microsoft access to create a database for government records that could be located with barcode integration.  ",
+    desc: "Provided technical support to office, resolving issues and optimizing system performance. Additionally, I developed and deployed a mock mortgage lending website using JavaScript to enhance the user experience.  ",
     skills: [
       "Javascript",
       "Swift",
